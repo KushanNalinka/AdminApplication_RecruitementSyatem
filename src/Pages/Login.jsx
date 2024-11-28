@@ -58,7 +58,7 @@
 
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import image1 from "../imgs/loginbackground.5ad1adb02f73f4ac865e.webp";
+import image1 from "../imgs/recruit.jpg";
 import image2 from "../imgs/recruitment-agency-logo-vector.jpg";
 import "./Login.css";  // Import the CSS file
 
