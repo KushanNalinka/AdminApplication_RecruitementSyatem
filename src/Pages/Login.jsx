@@ -69,7 +69,7 @@ const Login = () => {
 
   const handleLogin = () => {
     if (username === "admin" && password === "12345") {
-      navigate("/executive");
+      navigate("/home");
     } else {
       alert("Invalid username or password");
     }
